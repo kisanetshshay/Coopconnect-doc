@@ -1,4 +1,4 @@
-# Farming Training Platform Documentation Welcome to the documentation for the Farming Training Platform, a web app to improve farming productivity and sustainability through structured training. Overview The platform supports:
+Farming Training Platform Documentation Welcome to the documentation for the Farming Training Platform, a web app to improve farming productivity and sustainability through structured training. Overview The platform supports:
 
 Farmers: Register, view schedules, track attendance, pay via mobile money, and access training.
 Extension Workers: Manage groups, deliver courses, and mark attendance.
