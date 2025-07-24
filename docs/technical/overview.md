@@ -4,11 +4,11 @@
 Manage users, schedules, payments, notifications, and analytics.
 
 Table of Contents
-- Users(#users)
-- Courses(#courses)
-- Payments(#payments)
-- Notifications(#notifications)
-- Analytics(#analytics)
+- [Users](#users)
+- [Courses](#courses)
+- [Payments](#payments)
+- [Notifications](#notifications)
+- [Analytics](#analytics)
 
 Users
 1. Go to Users.
