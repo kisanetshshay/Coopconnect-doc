@@ -4,10 +4,10 @@
 Manage groups, deliver courses, and track attendance.
 
 Table of Contents
-- Groups(#groups)
-- Courses(#courses)
-- Attendance(#attendance)
-- Schedules(#schedules)
+- [Groups](#groups)
+- [Courses](#courses)
+- [Attendance](#attendance)
+- [Schedules](#schedules)
 
 Groups
 1. Go to Groups.
