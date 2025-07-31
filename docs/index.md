@@ -1,6 +1,6 @@
 
 
-# Farming Training Platform Documentation 🌱
+# Farming Training Platform Documentation 
 
 
 
@@ -8,18 +8,17 @@ Welcome to the **Farming Training Platform**, a digital solution designed to emp
 
 This platform connects **farmers**, **extension workers**, and **cooperative managers** to improve farming practices, increase productivity, and promote sustainability — all through a simple, mobile-friendly web and app experience.
 
-> 💡 **Built for impact. Designed for farmers. Powered by AI.**
+ **Built for impact. Designed for farmers. Powered by AI.**
 
----
 
-## 📱 Quick Start Guide
+Quick Start Guide
 
 ### 1. Download the App
 Get started by downloading the app on Android:
 
 [![Get It on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.coopconnect.farmingtraining)
 
-> 🔐 Secure login with phone number and PIN.
+Secure login with phone number and PIN.
 
 ### 2. Register
 - Farmers: Enter your name, phone number, group, and cooperative.
@@ -30,13 +29,13 @@ Attend sessions, earn points, make payments, and grow your knowledge — all in 
 
 ---
 
-## 👥 User Roles & Features
+## User Roles & Features
 
 The platform supports three key roles — each with tailored tools and access.
 
 ---
 
-### 1. 🧑‍🌾 Farmers
+### 1. Farmers
 
 You are the heart of the cooperative. This platform helps you learn, grow, and succeed.
 
@@ -57,11 +56,11 @@ You are the heart of the cooperative. This platform helps you learn, grow, and s
   - _"Did I attend last week’s session?"_
   - _"What’s my points balance?"_
 
-> 🎯 **Tip**: The more you attend, the more you earn — stay consistent!
+**Tip**: The more you attend, the more you earn — stay consistent!
 
 ---
 
-### 2. 👨‍🏫 Extension Workers
+### 2. Extension Workers
 
 You deliver knowledge to the field. This platform makes your job easier and more effective.
 
@@ -73,11 +72,11 @@ You deliver knowledge to the field. This platform makes your job easier and more
 - **Performance Reports**: See which farmers are active, at risk, or falling behind.
 - **AI Support**: Get alerts from **Grok** about low-attendance members or recommended topics.
 
-> 🛠️ **Tip**: Use the calendar view to prepare for upcoming sessions.
+**Tip**: Use the calendar view to prepare for upcoming sessions.
 
 ---
 
-### 3. 🧑‍💼 Admins & Cooperative Managers
+### 3. Admins & Cooperative Managers
 
 You’re in control. Manage users, payments, schedules, and performance — all from one dashboard.
 
@@ -107,12 +106,11 @@ You’re in control. Manage users, payments, schedules, and performance — all 
   - Predicts dropout risk
   - Recommends course topics
   - Suggests optimal training times
-
-> 📊 **Insight**: Use analytics to improve engagement and plan better programs.
+ **Insight**: Use analytics to improve engagement and plan better programs.
 
 ---
 
-## 🔐 Security & Privacy
+##  Security & Privacy
 
 - All user data is encrypted.
 - Payments are processed securely via MTN Mobile Money.
@@ -121,7 +119,7 @@ You’re in control. Manage users, payments, schedules, and performance — all 
 
 ---
 
-## 🤖 Meet Grok: Your AI Farming Assistant
+##  Meet Grok: Your AI Farming Assistant
 
 Grok is an **AI-powered chat assistant** built into the app to help users get instant answers.
 
@@ -138,11 +136,11 @@ Grok is an **AI-powered chat assistant** built into the app to help users get in
 - _"Show attendance report for Group 3."_
 - _"Predict next month’s participation rate."_
 
-> 🧠 Grok learns over time — the more you use it, the smarter it gets.
+> Grok learns over time — the more you use it, the smarter it gets.
 
 ---
 
-## 📅 Training Structure
+## Training Structure
 
 Each cooperative group receives structured monthly training:
 
@@ -155,11 +153,11 @@ Each cooperative group receives structured monthly training:
 | **Facilitator** | Assigned extension worker |
 | **Tracking** | Attendance, points, feedback |
 
-> 🔄 Sessions are scheduled in advance and visible in the app calendar.
+> Sessions are scheduled in advance and visible in the app calendar.
 
 ---
 
-## 💬 Notifications System
+##  Notifications System
 
 Stay informed with automated SMS alerts:
 
@@ -170,11 +168,11 @@ Stay informed with automated SMS alerts:
 | **Attendance Confirmed** | "You attended today’s session! +10 points added." |
 | **New Course** | "New course: 'Organic Fertilizers' starts next week!" |
 
-> 📲 All messages are customizable by admins.
+ All messages are customizable by admins.
 
 ---
 
-## 🏆 Points & Rewards Program
+##  Points & Rewards Program
 
 We reward participation to encourage learning.
 
@@ -190,28 +188,28 @@ We reward participation to encourage learning.
 - Redeem for seeds, tools, or fertilizer (coming soon)
 - Earn recognition as a "Top Farmer"
 
-> 🏅 Gamification increases engagement by up to 60% in pilot groups.
+> Gamification increases engagement by up to 60% in pilot groups.
 
 ---
 
-## 📊 Reporting & Analytics (For Admins)
+## Reporting & Analytics (For Admins)
 
 Real-time dashboards help you make data-driven decisions.
 
 ### Available Reports:
-- 📅 Monthly Attendance Rate
-- 💰 Payment Collection Summary
-- 📈 Participation by Group
-- ⚠️ At-Risk Farmers (low attendance)
-- 🏅 Top Performers (most points)
+-  Monthly Attendance Rate
+-  Payment Collection Summary
+- Participation by Group
+-  At-Risk Farmers (low attendance)
+- Top Performers (most points)
 
 All reports can be **exported to PDF or Excel** for sharing.
 
 ---
 
-## ❓ Frequently Asked Questions (FAQ)
+##  Frequently Asked Questions (FAQ)
 
-### 🌐 General
+### General
 **Q: Is the app free?**  
 A: The app is free to download. Training fees apply and can be offset with points.
 
@@ -220,7 +218,7 @@ A: Grok is an AI assistant that answers farming and platform questions via chat.
 
 ---
 
-### 🧑‍🌾 Farmers
+###  Farmers
 **Q: How do I check my points?**  
 A: Go to **My Progress** in the app.
 
@@ -229,7 +227,7 @@ A: Yes, but you must pay before attending the next session.
 
 ---
 
-### 👨‍🏫 Extension Workers
+### Extension Workers
 **Q: Can I edit a session after it’s scheduled?**  
 A: Yes, but you need admin approval to reschedule.
 
@@ -238,7 +236,7 @@ A: Check the **My Group** tab for attendance and points.
 
 ---
 
-### 🧑‍💼 Admins
+###  Admins
 **Q: Can I add more payment methods?**  
 A: Yes — the system supports API integration (Airtel Money, bank transfer). Contact support.
 
@@ -247,32 +245,32 @@ A: Yes — go to **Reports → Export Users**.
 
 ---
 
-## 💡 Tips for Success
+## Tips for Success
 
-- 🔄 **Farmers**: Attend every session to maximize learning and rewards.
-- 📲 **Extension Workers**: Use offline mode when in remote areas.
-- 📊 **Admins**: Review reports weekly to stay ahead.
-- 💬 **All Users**: Use **Grok** for instant help — it’s like having a farming expert in your pocket.
-
----
-
-## 🚀 Coming Soon (Roadmap)
-
-- 📞 **USSD Access**: For farmers without smartphones
-- 🛒 **Rewards Store**: Redeem points for seeds, tools, or fertilizer
-- 🌍 **Multi-Language Support**: Swahili, Luganda, French
-- 📥 **Offline Course Materials**: Download lessons for later
-- 📣 **Voice Notifications**: Audio reminders for low-literacy users
+-  **Farmers**: Attend every session to maximize learning and rewards.
+- **Extension Workers**: Use offline mode when in remote areas.
+-  **Admins**: Review reports weekly to stay ahead.
+-  **All Users**: Use **Grok** for instant help — it’s like having a farming expert in your pocket.
 
 ---
 
-## 📞 Support & Feedback
+## Coming Soon (Roadmap)
+
+-  **USSD Access**: For farmers without smartphones
+- **Rewards Store**: Redeem points for seeds, tools, or fertilizer
+- **Multi-Language Support**: Swahili, Luganda, French
+- **Offline Course Materials**: Download lessons for later
+-  **Voice Notifications**: Audio reminders for low-literacy users
+
+---
+
+##  Support & Feedback
 
 Need help? Have a suggestion?
 
-📧 Email: **support@farmingplatform.com**  
-📞 Phone: +256 XXX XXX XXX  
-📍 Office: [Your Cooperative HQ Address]
+ Email: **support@farmingplatform.com**  
+ Phone: +256 XXX XXX XXX  
+Office: [Your Cooperative HQ Address]
 
 We’re always improving — your feedback matters!
 
