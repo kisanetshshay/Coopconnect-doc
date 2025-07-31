@@ -254,6 +254,14 @@ Office: [Your Cooperative HQ Address]
 We’re always improving — your feedback matters!
 
 
+## Continue 
+- [Getting Started](./getting-started/overview)
+- [Farmers Guide](./user-guides/farmers/getting-started)
+- [Extension Workers Guide](./user-guides/extension-workers/getting-started)
+- [Admins Guide](./user-guides/admins/getting-started)
+- [FAQ](./faq/faq)
+- [Changelog](./changelog/changelog)
+
 
 © 2025 Farming Training Platform.  
 All rights reserved.  
