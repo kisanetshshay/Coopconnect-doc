@@ -257,7 +257,7 @@ A: Yes — go to **Reports → Export Users**.
 Need help? Have a suggestion?
 
  Email: **support@farmingplatform.com**  
- Phone: +256 XXX XXX XXX  
+ Phone: +256 5667889  
 Office: [Your Cooperative HQ Address]
 
 We’re always improving — your feedback matters!
