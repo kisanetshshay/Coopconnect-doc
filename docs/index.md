@@ -13,4 +13,4 @@ Welcome to the documentation for the Farming Training Platform, a web app to imp
 
  About
 Supports farmers, extension workers, and admins with features like group management, scheduling, payments via MTN Mobile Money, notifications, and AI-driven analytics.
-![Group Structure](Coopconnect-doc/docs/visuals/dbc485158a3fa63e5e32a10bd4360f9a.png)
+![Group Structure](Coopconnect-doc/docs/visuals/dbc485158a3fa63e5e32a10bd4360f9a.jpg)
