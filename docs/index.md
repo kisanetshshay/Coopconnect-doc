@@ -179,8 +179,6 @@ We reward participation to encourage learning.
 
 > Gamification increases engagement by up to 60% in pilot groups.
 
-
-
 ## Reporting & Analytics (For Admins)
 
 Real-time dashboards help you make data-driven decisions.
@@ -194,18 +192,11 @@ Real-time dashboards help you make data-driven decisions.
 
 All reports can be **exported to PDF or Excel** for sharing.
 
-
-
 ##  Frequently Asked Questions (FAQ)
 
 ### General
 **Q: Is the app free?**  
 A: The app is free to download. Training fees apply and can be offset with points.
-
-**Q: What is Grok?**  
-A: Grok is an AI assistant that answers farming and platform questions via chat.
-
-
 
 ###  Farmers
 **Q: How do I check my points?**  
