@@ -8,7 +8,7 @@ Welcome to the **Farming Training Platform**, a digital solution designed to emp
 
 This platform connects **farmers**, **extension workers**, and **cooperative managers** to improve farming practices, increase productivity, and promote sustainability — all through a simple, mobile-friendly web and app experience.
 
- **Built for impact. Designed for farmers. Powered by AI.**
+ **Built for impact. Designed for farmers.**
 
 
 Quick Start Guide
@@ -27,13 +27,12 @@ Secure login with phone number and PIN.
 ### 3. Start Learning
 Attend sessions, earn points, make payments, and grow your knowledge — all in one place.
 
----
+
 
 ## User Roles & Features
 
 The platform supports three key roles — each with tailored tools and access.
 
----
 
 ### 1. Farmers
 
@@ -58,7 +57,6 @@ You are the heart of the cooperative. This platform helps you learn, grow, and s
 
 **Tip**: The more you attend, the more you earn — stay consistent!
 
----
 
 ### 2. Extension Workers
 
@@ -70,11 +68,11 @@ You deliver knowledge to the field. This platform makes your job easier and more
 - **Mark Attendance**: Tap to mark who attended — updates instantly.
 - **Offline Mode**: Mark attendance even without internet — syncs when back online.
 - **Performance Reports**: See which farmers are active, at risk, or falling behind.
-- **AI Support**: Get alerts from **Grok** about low-attendance members or recommended topics.
+- **AI Support**: Get alerts from **AIAGENT** about low-attendance members or recommended topics.
 
 **Tip**: Use the calendar view to prepare for upcoming sessions.
 
----
+
 
 ### 3. Admins & Cooperative Managers
 
@@ -108,7 +106,6 @@ You’re in control. Manage users, payments, schedules, and performance — all 
   - Suggests optimal training times
  **Insight**: Use analytics to improve engagement and plan better programs.
 
----
 
 ##  Security & Privacy
 
@@ -116,12 +113,6 @@ You’re in control. Manage users, payments, schedules, and performance — all 
 - Payments are processed securely via MTN Mobile Money.
 - No personal data is shared without consent.
 - Role-based access ensures only authorized users see sensitive info.
-
----
-
-##  Meet Grok: Your AI Farming Assistant
-
-Grok is an **AI-powered chat assistant** built into the app to help users get instant answers.
 
 ### For Farmers:
 - _"How do I store seeds properly?"_
@@ -136,9 +127,8 @@ Grok is an **AI-powered chat assistant** built into the app to help users get in
 - _"Show attendance report for Group 3."_
 - _"Predict next month’s participation rate."_
 
-> Grok learns over time — the more you use it, the smarter it gets.
+ Grok learns over time — the more you use it, the smarter it gets.
 
----
 
 ## Training Structure
 
@@ -155,7 +145,7 @@ Each cooperative group receives structured monthly training:
 
 > Sessions are scheduled in advance and visible in the app calendar.
 
----
+
 
 ##  Notifications System
 
@@ -170,7 +160,6 @@ Stay informed with automated SMS alerts:
 
  All messages are customizable by admins.
 
----
 
 ##  Points & Rewards Program
 
@@ -190,7 +179,7 @@ We reward participation to encourage learning.
 
 > Gamification increases engagement by up to 60% in pilot groups.
 
----
+
 
 ## Reporting & Analytics (For Admins)
 
@@ -205,7 +194,7 @@ Real-time dashboards help you make data-driven decisions.
 
 All reports can be **exported to PDF or Excel** for sharing.
 
----
+
 
 ##  Frequently Asked Questions (FAQ)
 
@@ -216,7 +205,7 @@ A: The app is free to download. Training fees apply and can be offset with point
 **Q: What is Grok?**  
 A: Grok is an AI assistant that answers farming and platform questions via chat.
 
----
+
 
 ###  Farmers
 **Q: How do I check my points?**  
@@ -225,7 +214,6 @@ A: Go to **My Progress** in the app.
 **Q: Can I pay later?**  
 A: Yes, but you must pay before attending the next session.
 
----
 
 ### Extension Workers
 **Q: Can I edit a session after it’s scheduled?**  
@@ -234,7 +222,7 @@ A: Yes, but you need admin approval to reschedule.
 **Q: How do I see my group’s performance?**  
 A: Check the **My Group** tab for attendance and points.
 
----
+
 
 ###  Admins
 **Q: Can I add more payment methods?**  
@@ -243,7 +231,7 @@ A: Yes — the system supports API integration (Airtel Money, bank transfer). Co
 **Q: Can I export all farmer data?**  
 A: Yes — go to **Reports → Export Users**.
 
----
+
 
 ## Tips for Success
 
@@ -252,7 +240,7 @@ A: Yes — go to **Reports → Export Users**.
 -  **Admins**: Review reports weekly to stay ahead.
 -  **All Users**: Use **Grok** for instant help — it’s like having a farming expert in your pocket.
 
----
+
 
 ## Coming Soon (Roadmap)
 
@@ -262,7 +250,7 @@ A: Yes — go to **Reports → Export Users**.
 - **Offline Course Materials**: Download lessons for later
 -  **Voice Notifications**: Audio reminders for low-literacy users
 
----
+
 
 ##  Support & Feedback
 
@@ -274,7 +262,7 @@ Office: [Your Cooperative HQ Address]
 
 We’re always improving — your feedback matters!
 
----
+
 
 © 2025 Farming Training Platform.  
 All rights reserved.  
