@@ -100,7 +100,7 @@ You’re in control. Manage users, payments, schedules, and performance — all 
     - Participation trends
     - Top performers
   - Export data for meetings or funding reports
-- **AI Insights (Grok)**:
+- **AIagent Insights **:
   - Predicts dropout risk
   - Recommends course topics
   - Suggests optimal training times
@@ -127,7 +127,6 @@ You’re in control. Manage users, payments, schedules, and performance — all 
 - _"Show attendance report for Group 3."_
 - _"Predict next month’s participation rate."_
 
- Grok learns over time — the more you use it, the smarter it gets.
 
 
 ## Training Structure
@@ -229,7 +228,7 @@ A: Yes — go to **Reports → Export Users**.
 -  **Farmers**: Attend every session to maximize learning and rewards.
 - **Extension Workers**: Use offline mode when in remote areas.
 -  **Admins**: Review reports weekly to stay ahead.
--  **All Users**: Use **Grok** for instant help — it’s like having a farming expert in your pocket.
+-  **All Users**: It’s like having a farming expert in your pocket.
 
 
 
