@@ -7,7 +7,7 @@ Download the Farming Training Platform app from the Play Store and enhance your 
 
 [![Get It on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store)
 
-![App Overview](Coopconnect-doc/docs/visuals/dbc485158a3fa63e5e32a10bd4360f9a.jpg)
+![App Overview](Coopconnect-doc/docs/visuals/background.png)
 *Explore training schedules, payments, and Grok AI support in the app.*
 
 Farming Training Platform connects farmers, extension workers, and admins to boost productivity and sustainability. Here’s how it works:
